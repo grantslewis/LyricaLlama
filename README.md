@@ -1,6 +1,4 @@
-# CS 470 - Semester Project
-
-## LyricaLlama: A fintuned LLM for generating lyrics
+# LyricaLlama: A fintuned LLM for generating lyrics
 
 
 ### Fall 2023
