@@ -1,0 +1,13 @@
+For the semester project, you need to spend 20 hours on an AI-related project.  There are two options:
+
+1) Project of your choice - can be related to research you are doing, a topic you are interested in, or anything else.  AI related is very broad, you can use Machine Learning, Deep Learning, or almost anything else.
+
+2) Class RISK project.  Develop a risk agent for a class RISK competition, using the code provided with the RISK version of the Deterministic Search lab.  
+
+What to turn in: What you turn in should do the following:
+
+Account for the 20 hours you were required to spend on the project.  I want to see what you spent your time doing.
+A description of what you did for the project.  Tell me about your goal, what you tried, how you know if it worked, a link to code resources you used, lessons learned, what you would try differently if you could start over, etc.  There is no explicit length requirement, but points can be deducted for glaringly incomplete write-ups.  If you did the RISK project, please describe your approach for the agent, results of any testing you did, etc.
+If you did the RISK assignment, please give me the name for your agent (and preferably, name your .py file that!)
+You are not required to turn in code (unless you did the RISK project, then I need your .py and any other necessary files to run the class tournament), but I encourage it, especially if you have created something that might be useful in future semesters for AI students. (Examples: say you coded up a simulator/rules engine for a different game, then future students can focus on the AI for it). 
+This assignment cannot be dropped.

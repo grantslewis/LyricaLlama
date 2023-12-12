@@ -1,0 +1,23 @@
+Date,Duration,Type,Description
+11/3/2023,1.5 hours,Research,Finding data to use in fine-tuning the LLM
+11/21/2023,1 hour,Research,Researching current best approaches to fine-tune an LLM with limited resources
+12/5/2023,1 hour,EDA,Conducted some experiments on the data to clean and prepare it for fine-tuning the LLM
+12/6/2023,1.5 hour,Preparation,Prepared and set a new environment for the fine-tuning of the LLM
+-5hrs-,,,,
+12/6/2023,4.5 hours,Data Preparation,Preparing the data for fine-tuning the LLM
+12/7/2023,3.5 hours,Trianing,FinalizedCode and Finetuned on a small subset to ensure everything is working
+12/7/2023,5 hours,Training,Monitored the first iteration of training on the fullsized dataset.  Had issues with a large batch size causing the program to hang (but not crash). Got to a checkpoint at 5% before crashing.
+-18-,,,,
+12/8/2023,1 hours,Training,Process failed overnight. Restarted training and monitored for a while.
+12/9/2023,0.5 hours,Training,Process failed overnight. Restarted training and monitored for a while.
+12/9/2023,1 hour,Testing,Set up and conducted some tests to see if there were improvements.
+12/11/2023,1 hours,Testing,Finished Conducting Tests.
+Total so far: 20.5 hours,,,
+
+TODO: Research "gradient_accumulation_steps". Check Progress.  Might need to train on sample?,,,,
+
+
+What I would change: add "ending phrase"
+
+
+

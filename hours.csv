@@ -1,0 +1,14 @@
+Date,Duration,Type,Description
+11/3/2023,1.5 hours,Research,Found song data to use in fine-tuning the LLM.
+11/21/2023,1 hour,Research,Researched current best approaches to fine-tune an LLM with limited resources. Decided to use Q-LoRA.
+12/5/2023,1 hour,EDA,Conducted experiments on the data to better understand what I was working with.
+12/6/2023,2.5 hours,Data Preparation,Prepared the data for use in finetuning.
+12/6/2023,3.5 hour,MLOPs,Prepared and setup a new environment for the finetuning the LLM. Ran into several issues with versioning that had to be resolved.
+12/7/2023,4.5 hours,Development,Built out finetuning scripts and tested it on a small sample of data.
+12/7/2023,3 hours,Debugging,Attempted to start training at scale. Had issues that needed to be debugged. Also added more checkpoints to allow for recovery from crashing
+12/7/2023,1 hour,Training,Monitored the first iteration of training at scale. Got to a checkpoint at 5% before crashing.
+12/8/2023,1 hour,Training,Process failed overnight. Restarted training and monitored for a while.
+12/9/2023,0.5 hours,Training,Process failed overnight. Restarted training and monitored for a while.
+12/9/2023,1 hour,Testing,Set up and conducted some tests to see if there were improvements.
+12/11/2023,2 hours,Testing,Finished Conducting Tests.
+Total Time,21.5 hours,,

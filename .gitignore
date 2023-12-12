@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/Data/pt_to_en_genres.csv
+/Data/lyrics-data.zip
+/Data/lyrics-data.csv
+/Data/artists-data.csv
+/Data/lyrics-data-combined.tsv
+/Data/lyrics-data-formatted.tsv
+
+./exclude/
+
 # C extensions
 *.so
 
